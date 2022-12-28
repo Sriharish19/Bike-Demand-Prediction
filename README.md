@@ -40,9 +40,18 @@ Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
 Our dataset has many outliers which could affect the effectiveness of the model. So, by using bar plot outliers had been detected and by using Z- score technique all the outliers had been imputed with median.
 
+![image](https://user-images.githubusercontent.com/102653523/209867249-e18d6562-9981-4d9d-99c4-19f29eb062b0.png)
+
+
 # Performed One Hot Encoding
 
+![image](https://user-images.githubusercontent.com/102653523/209867448-df76b553-c13b-4a23-b8ce-a01941b052cb.png)
+
+
 # Model Implementation and Evaluation
+
+![image](https://user-images.githubusercontent.com/102653523/209867356-20b4aa7b-94a8-4171-822c-e7ed8beb2c35.png)
+
 
 # Conclusion
 
