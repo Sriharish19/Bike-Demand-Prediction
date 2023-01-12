@@ -55,4 +55,4 @@ Our dataset has many outliers which could affect the effectiveness of the model.
 
 # Conclusion
 
-Built a model with Adjusted R2 score of 82% using Polynomial regression. And found top three important features that determine the bike demands are Temperature, Humidity, Functioning day.
+Built a model with Adjusted R2 score of 86% using Random Forest. And found top three important features that determine the bike demands are Temperature, Humidity, Functioning day.
